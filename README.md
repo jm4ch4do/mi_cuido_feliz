@@ -1,2 +1,2 @@
 # Small Site for Startup
-Is a simple site made with mobirise which I made for my wife to present at a course
+Is a single page simple site which I made for my wife to use at a enterprise management course
